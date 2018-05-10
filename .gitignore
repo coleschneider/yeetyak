@@ -1,0 +1,12 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+.DS_Store
+node_modules/
+Util/config.js
+Util/index.js
+.env
+.DS_STORE
+package-lock.json.DS_Store
